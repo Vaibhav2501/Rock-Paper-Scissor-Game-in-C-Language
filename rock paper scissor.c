@@ -7,12 +7,6 @@
 char user[20];
 int a,choice,comp[4],player[4],sys,pep; // a for storing random number
 
-void genran();
-void rock();
-void scissor();
-void paper();
-
-
 void genran()
 {
     printf("/*************************************************/ \n");
